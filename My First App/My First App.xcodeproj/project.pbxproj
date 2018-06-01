@@ -14,6 +14,7 @@
 		8233DEE220B5AB6000F6C1B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8233DEE020B5AB6000F6C1B1 /* LaunchScreen.storyboard */; };
 		8233DEED20B5AB6100F6C1B1 /* My_First_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8233DEEC20B5AB6100F6C1B1 /* My_First_AppTests.swift */; };
 		8233DEF820B5AB6100F6C1B1 /* My_First_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8233DEF720B5AB6100F6C1B1 /* My_First_AppUITests.swift */; };
+		82B3611F20C1C7D5001AF799 /* MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82B3611E20C1C7D4001AF799 /* MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8233DEF320B5AB6100F6C1B1 /* My First AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My First AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8233DEF720B5AB6100F6C1B1 /* My_First_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_First_AppUITests.swift; sourceTree = "<group>"; };
 		8233DEF920B5AB6100F6C1B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82B3611E20C1C7D4001AF799 /* MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8233DEDE20B5AB6000F6C1B1 /* Assets.xcassets */,
 				8233DEE020B5AB6000F6C1B1 /* LaunchScreen.storyboard */,
 				8233DEE320B5AB6000F6C1B1 /* Info.plist */,
+				82B3611E20C1C7D4001AF799 /* MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg */,
 			);
 			path = "My First App";
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82B3611F20C1C7D5001AF799 /* MaxPixel.freegreatpicture.com-Play-Garden-Grass-Soccer-Football-Games-Football-1396740.jpg in Resources */,
 				8233DEE220B5AB6000F6C1B1 /* LaunchScreen.storyboard in Resources */,
 				8233DEDF20B5AB6000F6C1B1 /* Assets.xcassets in Resources */,
 				8233DEDD20B5AB5B00F6C1B1 /* Main.storyboard in Resources */,
