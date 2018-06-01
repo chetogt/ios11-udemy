@@ -10,6 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var txtName: UITextField!
+    @IBOutlet weak var lblMessage: UILabel!
+    
+    @IBAction func onButtonClicked(_ sender: Any) {
+        print("Button clicked!")
+        // lblMessage.text = "Button was clicked"
+        
+        if let name = txtName.text  {
+            lblMessage.text = "Welcome, " + name
+        }
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
